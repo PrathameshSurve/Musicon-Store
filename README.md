@@ -39,10 +39,6 @@ The project structure is organized as follows:
 
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. We welcome contributions and improvements!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Codecademy for providing the interactive JavaScript course that inspired this project.
@@ -50,4 +46,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to use this README as a template for your Musicon Store project. Customize it as needed and add any additional information that you find relevant. Good luck with your project!
